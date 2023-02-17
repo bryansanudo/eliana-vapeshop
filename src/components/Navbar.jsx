@@ -33,13 +33,6 @@ const Navbar = ({ isMenuShown, setIsMenuShown }) => {
       brand:
         "rounded-full object-cover w-20 h-20 md:w-40 md:h-40 shadow-white hover:shadow-white   duration-300 cursor-pointer hover:shadow-xl shadow-md",
     },
-    {
-      id: 8,
-      link: "https://moon-portafolio.vercel.app/",
-      src: logoMoon,
-      brand:
-        "rounded-full object-cover w-20 h-20 md:w-40 md:h-40 shadow-thPrimary hover:shadow-thPrimary  duration-300 cursor-pointer hover:shadow-xl shadow-md",
-    },
   ];
 
   return (
