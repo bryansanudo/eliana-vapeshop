@@ -1,7 +1,7 @@
 import React from "react";
 import logoSara from "@/assets/logoSara.jpg";
 import logoMdwx from "@/assets/logoMdwx.jpg";
-import logoJmarioCouture from "@/assets/logoJmarioCouture.jpg";
+import logoJmario from "@/assets/logoJmarioCouture.jpg";
 import logoMagicripped from "@/assets/logoMagicripped.jpg";
 import logoVoufit from "@/assets/logoVoufit.jpg";
 import logoEliana from "@/assets/logoEliana1.jpg";
@@ -26,10 +26,10 @@ const MobileBanner = () => {
     },
     {
       id: 2,
-      link: "https://eliana-maxwax.vercel.app/",
-      src: logoMdwx,
+      link: "https://eliana-jmario.vercel.app/",
+      src: logoJmario,
       brand:
-        "rounded-full object-cover w-20 h-20 md:w-40 md:h-40 shadow-[#29fd04] hover:shadow-[#29fd04]   duration-300 cursor-pointer hover:shadow-xl shadow-md",
+        "rounded-full object-cover w-20 h-20 md:w-40 md:h-40 shadow-white hover:shadow-white   duration-300 cursor-pointer hover:shadow-xl shadow-md",
     },
     {
       id: 8,
