@@ -18,28 +18,28 @@ const Product1 = () => {
       src: product1,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 2,
       src: product2,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 3,
       src: product3,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 4,
       src: product4,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
   ];
 
@@ -70,7 +70,7 @@ const Product1 = () => {
                     className="h-[330px] md:h-[500px]  w-full  object-cover rounded-t-xl"
                   />
                   <p className="m-4 capitalize text-sm md:text-lg">
-                    @mymagicripped
+                    @elianacaro12
                   </p>
                 </div>
               </a>
@@ -88,7 +88,7 @@ const Product1 = () => {
                     className="h-[330px] md:h-[500px]  w-full  object-cover rounded-t-xl"
                   />
                   <p className="m-4 capitalize text-sm md:text-lg">
-                    @mymagicripped
+                    @elianacaro12
                   </p>
                 </div>
               </a>
