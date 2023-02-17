@@ -27,7 +27,7 @@ const Navbar = ({ isMenuShown, setIsMenuShown }) => {
     },
     {
       id: 2,
-      link: "https://sara-madwax.vercel.app/",
+      link: "https://eliana-maxwax.vercel.app/",
       src: logoMdwx,
       brand:
         "rounded-full object-cover w-20 h-20 md:w-40 md:h-40 shadow-[#29fd04] hover:shadow-[#29fd04]   duration-300 cursor-pointer hover:shadow-xl shadow-md",
