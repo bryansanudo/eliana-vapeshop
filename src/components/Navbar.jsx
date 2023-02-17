@@ -32,21 +32,6 @@ const Navbar = ({ isMenuShown, setIsMenuShown }) => {
       brand:
         "rounded-full object-cover w-20 h-20 md:w-40 md:h-40 shadow-[#29fd04] hover:shadow-[#29fd04]   duration-300 cursor-pointer hover:shadow-xl shadow-md",
     },
-
-    {
-      id: 5,
-      link: "https://sara-magicripped.vercel.app/",
-      src: logoMagicripped,
-      brand:
-        "rounded-full object-cover w-20 h-20 md:w-40 md:h-40 shadow-[#fd0101] hover:shadow-[#fd0101] duration-300  cursor-pointer hover:shadow-xl shadow-md",
-    },
-    {
-      id: 1,
-      link: "https://sara-marcas.vercel.app/",
-      src: logoSara,
-      brand:
-        "rounded-full object-cover w-20 h-20 md:w-40 md:h-40 shadow-[#6057ca] hover:shadow-[#6057ca] duration-300 cursor-pointer hover:shadow-xl shadow-md",
-    },
   ];
 
   return (
