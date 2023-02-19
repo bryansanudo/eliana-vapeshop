@@ -28,98 +28,98 @@ const Product2 = () => {
       src: product1,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 2,
       src: product2,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 3,
       src: product3,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 4,
       src: product4,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 5,
       src: product5,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 6,
       src: product6,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 7,
       src: product7,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 8,
       src: product8,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 9,
       src: product9,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 10,
       src: product10,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 11,
       src: product11,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 12,
       src: product12,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 13,
       src: product13,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
     {
       id: 14,
       src: product14,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@elianacaro12",
     },
   ];
 
@@ -169,7 +169,7 @@ const Product2 = () => {
                     className="h-[330px] md:h-[500px]  w-full  object-cover rounded-t-xl"
                   />
                   <p className="m-4 capitalize text-sm md:text-lg">
-                    @mymagicripped
+                    @elianacaro12
                   </p>
                 </div>
               </a>
@@ -187,7 +187,7 @@ const Product2 = () => {
                     className="h-[330px] md:h-[500px]  w-full  object-cover rounded-t-xl"
                   />
                   <p className="m-4 capitalize text-sm md:text-lg">
-                    @mymagicripped
+                    @elianacaro12
                   </p>
                 </div>
               </a>
